@@ -1,6 +1,6 @@
 /* ============================================
 Arduino Luxmeter - Sensor Bibliothek
-Copyright (c) 2018 F.Bisinger
+           2018 F.Bisinger
 
  Diese Bibliothek konvertiert die Analogen Eingangswerte eines LDR in Lux - Werte
 
